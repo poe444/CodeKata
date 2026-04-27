@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\user\\Desktop\\MyFolder\\01_Personal\\01_Study\\02_Unreal\\C\u002B\u002B\\02_PersonalCStudy\\Code_Kata\\Algorithm_Code_Kata\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A7EB39A-D2CE-4F32-9FB1-FE2C7C08E082}|Algorithm_Code_Kata\\Algorithm_Code_Kata.vcxproj|D:\\user\\Desktop\\MyFolder\\01_Personal\\01_Study\\02_Unreal\\C\u002B\u002B\\02_PersonalCStudy\\Code_Kata\\Algorithm_Code_Kata\\Algorithm_Code_Kata\\soultion02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A7EB39A-D2CE-4F32-9FB1-FE2C7C08E082}|Algorithm_Code_Kata\\Algorithm_Code_Kata.vcxproj|solutionrelative:Algorithm_Code_Kata\\soultion02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A7EB39A-D2CE-4F32-9FB1-FE2C7C08E082}|Algorithm_Code_Kata\\Algorithm_Code_Kata.vcxproj|D:\\user\\Desktop\\MyFolder\\01_Personal\\01_Study\\02_Unreal\\C\u002B\u002B\\02_PersonalCStudy\\Code_Kata\\Algorithm_Code_Kata\\Algorithm_Code_Kata\\quiz01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4A7EB39A-D2CE-4F32-9FB1-FE2C7C08E082}|Algorithm_Code_Kata\\Algorithm_Code_Kata.vcxproj|solutionrelative:Algorithm_Code_Kata\\quiz01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "soultion02.cpp",
+              "DocumentMoniker": "D:\\user\\Desktop\\MyFolder\\01_Personal\\01_Study\\02_Unreal\\C\u002B\u002B\\02_PersonalCStudy\\Code_Kata\\Algorithm_Code_Kata\\Algorithm_Code_Kata\\soultion02.cpp",
+              "RelativeDocumentMoniker": "Algorithm_Code_Kata\\soultion02.cpp",
+              "ToolTip": "D:\\user\\Desktop\\MyFolder\\01_Personal\\01_Study\\02_Unreal\\C\u002B\u002B\\02_PersonalCStudy\\Code_Kata\\Algorithm_Code_Kata\\Algorithm_Code_Kata\\soultion02.cpp",
+              "RelativeToolTip": "Algorithm_Code_Kata\\soultion02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T00:22:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "quiz01.cpp",
               "DocumentMoniker": "D:\\user\\Desktop\\MyFolder\\01_Personal\\01_Study\\02_Unreal\\C\u002B\u002B\\02_PersonalCStudy\\Code_Kata\\Algorithm_Code_Kata\\Algorithm_Code_Kata\\quiz01.cpp",
               "RelativeDocumentMoniker": "Algorithm_Code_Kata\\quiz01.cpp",
               "ToolTip": "D:\\user\\Desktop\\MyFolder\\01_Personal\\01_Study\\02_Unreal\\C\u002B\u002B\\02_PersonalCStudy\\Code_Kata\\Algorithm_Code_Kata\\Algorithm_Code_Kata\\quiz01.cpp",
               "RelativeToolTip": "Algorithm_Code_Kata\\quiz01.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-24T01:11:36.271Z",
               "EditorCaption": ""
